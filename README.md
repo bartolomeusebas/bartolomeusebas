@@ -11,21 +11,23 @@ Trabalho com desenvolvimento de **sistemas web e desktop**, **bases de dados**, 
 👨🏾‍🏫 Docente de Programação
 💻 Desenvolvedor de Software
 <p align="left">
-  <a href="https://github.com/SEU_USERNAME?tab=followers">
+  <a href="https://github.com/bartolomeusebas?tab=followers">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/SEU_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/bartolomeusebas?color=1f6feb&labelColor=0d1117&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
-  <a href="https://github.com/SEU_USERNAME?tab=repositories&sort=stargazers">
+
+  <a href="https://github.com/bartolomeusebas?tab=repositories&sort=stargazers">
     <img 
       alt="Estrelas" 
       title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/SEU_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+      src="https://custom-icon-badges.demolab.com/github/stars/bartolomeusebas?color=0969da&labelColor=0d1117&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
     />
   </a>
 </p>
+
 ## 🎯 Áreas de Atuação
 
 * 👨🏾‍🏫 Ensino de **Programação e Informática Aplicada**
@@ -57,23 +59,22 @@ Trabalho com desenvolvimento de **sistemas web e desktop**, **bases de dados**, 
   <img 
     align="left" 
     height="190" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=bartolomeusebas&show_icons=true&theme=tokyonight&count_private=true"
   />
 
-<img 
- align="left" 
- height="190" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-/>
-
+  <img 
+    align="left" 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartolomeusebas&layout=compact&theme=tokyonight"
+  />
 </p>
 
 <br/><br/><br/><br/>
 
 ## 📫 Contato Profissional
 
-* 📧 Email: **[seuemail@email.com](mailto:seuemail@email.com)**
-* 💼 LinkedIn: **
-* 🌐 Portfólio: **
+* 📧 Email: bartolomeusebas@gmail.com
+* 💼 LinkedIn: 
+* 🌐 Portfólio: 
 
-### ✨ *“Ensinar programação é formar mentes capazes de transformar o futuro através da tecnologia.”*
+✨ Ensinar programação é formar mentes capazes de transformar o futuro através da tecnologia.
